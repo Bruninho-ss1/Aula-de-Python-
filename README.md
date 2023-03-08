@@ -1,2 +1,2 @@
 # Aula-de-Python-
-Projetos de python da faculdade de Analise e desenvovimento de sistemas
+Projetos de python Desenvolvidos durante a faculdade de Analise e desenvovimento de sistemas.
